@@ -33,7 +33,7 @@ The project was developed using the following technologies.
     $ git clone https: github.com/TayseRosa/react-native-props.git
 
     //Enter the directory
-    $ cd rnProps
+    $ cd react-native-props
 
     //Install the dependencies the project
     $ yarn install
@@ -44,4 +44,4 @@ The project was developed using the following technologies.
 ``` 
 
 ---
-Developed by 🚀 Tayse Rosa 🌸
+<h4 align="center"> Developed by 🚀 Tayse Rosa 🌸 </h4>
